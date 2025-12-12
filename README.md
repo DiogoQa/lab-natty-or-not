@@ -1,41 +1,33 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📘 Natty or Not: Como identificar conteúdos criados por IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto desenvolvido para o laboratório **Natty or Not** da DIO, com o objetivo de explorar o uso de Inteligência Artificial Generativa na criação de conteúdos realistas e analisar os limites entre produções humanas e artificiais.
+
+O projeto consiste em um e-book curto e educativo sobre como identificar conteúdos criados por IA e como utilizá-la de forma ética e profissional.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (IA Generativa de Texto)
+- Ferramentas de IA para apoio criativo
+- Git e GitHub
+- Markdown
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi planejado e estruturado previamente, utilizando IA Generativa como ferramenta de apoio para criação de texto. Todo o material passou por curadoria humana, ajustes de linguagem e organização para garantir naturalidade e clareza.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- E-book educativo sobre IA Generativa
+- Conteúdo com linguagem natural (natty)
+- Documentação clara e organizada
+- Projeto pronto para portfólio
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Criar algo verdadeiramente “natty” com IA exige mais do que bons prompts: exige intenção, senso crítico e responsabilidade humana.
+
 ```
 
 ### Exemplos e Insigths
